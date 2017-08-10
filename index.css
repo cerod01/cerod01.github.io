@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+.first-group
+h1{
+  color: turquoise;
+}
+
+h2 { text-align: center;}
+
+.last-group {color: Darkblue}
+
+#important { font-size: 30px;}
